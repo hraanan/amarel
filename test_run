@@ -14,7 +14,10 @@
 #export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 #alias python=/home/hr253/pymol/bin/python2.7
 export LD_LIBRARY_PATH=/home/hr253/pymol:$LD_LIBRARY_PATH
-/home/hr253/pymol/bin/python ~/span/paralle_pymol_list_amarel.py ADE_align.txt
+
+IN_FILE_NAME=$1
+
+/home/hr253/pymol/bin/python ~/span/paralle_pymol_list_amarel.py $IN_FILE_NAME
 
 
 
