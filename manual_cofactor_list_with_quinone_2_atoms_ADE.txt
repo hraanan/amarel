@@ -1,0 +1,137 @@
+name	id	type	center atoms	nucleotide
+Co-A	52O	Co-A	S1	O1;N4
+Co-A	BCO	Co-A	S1	O1;N4
+Co-A	IVC	Co-A	S1	O1;N4
+Molybdopterin	2MD	Molybdopterin	N1;N3;N7;N9	O11;N1
+Co-A	1VU	Co-A	S	O11;N5
+Biotin	BT5	Biotin	N1B;N2B;S1B	O4';N1
+Co-A	2CP	Co-A	S	O4';N1
+Co-A	3CP	Co-A	S	O4';N1
+Co-A	COW	Co-A	S	O4';N1
+Co-A	HXC	Co-A	S	O4';N1
+Co-A	MCA	Co-A	S	O4';N1
+Co-A	MLC	Co-A	S	O4';N1
+Co-A	OXK	Co-A	S	O4';N1
+Co-A	SCA	Co-A	S	O4';N1
+Co-A	SOP	Co-A	S	O4';N1
+Co-A	UCC	Co-A	S	O4';N1
+Molybdopterin	MGD	Molybdopterin	N15;N22	O4';N1
+Nicotinamide-adenine dinucleotide	ADJ	NAD	O4S	O4';N1
+Nicotinamide-adenine dinucleotide	ENP	NAD	O8'	O4';N1
+Co-A	01A	Co-A	S1P	O4A';N1A
+Co-A	JBT	Co-A	S1P	O4B;N1
+Co-A	2MC	Co-A	S1P	O4B;N1A
+Co-A	3HC	Co-A	S1P	O4B;N1A
+Co-A	3KK	Co-A	S1P	O4B;N1A
+Co-A	4BN	Co-A	S1P	O4B;N1A
+Co-A	CAA	Co-A	S1P	O4B;N1A
+Co-A	CAO	Co-A	S1P	O4B;N1A
+Co-A	CO6	Co-A	S1P	O4B;N1A
+Co-A	CO8	Co-A	S1P	O4B;N1A
+Co-A	COA	Co-A	S1P	O4B;N1A
+Co-A	COF	Co-A	S1P	O4B;N1A
+Co-A	COK	Co-A	S1P	O4B;N1A
+Co-A	COS	Co-A	S1P	O4B;N1A
+Co-A	COZ	Co-A	S1P	O4B;N1A
+Co-A	CS8	Co-A	S1P	O4B;N1A
+Co-A	FRE	Co-A	S1P	O4B;N1A
+Co-A	HDC	Co-A	S1P	O4B;N1A
+Co-A	HMG	Co-A	S1P	O4B;N1A
+Co-A	MDE	Co-A	S1P	O4B;N1A
+Co-A	MRR	Co-A	S1P	O4B;N1A
+Co-A	MRS	Co-A	S1P	O4B;N1A
+Co-A	RFC	Co-A	S1P	O4B;N1A
+Co-A	SFC	Co-A	S1P	O4B;N1A
+Co-A	SPF	Co-A	S1P	O4B;N1A
+Co-A	ST9	Co-A	S1P	O4B;N1A
+Flavin adenine dinucleotide	FAD	Flavin	N5;N10	O4B;N1A
+Nicotinamide-adenine dinucleotide	NAD	NAD	O4D	O4B;N1A
+Nicotinamide-adenine dinucleotide	NAP	NAD	O4D	O4B;N1A
+Nicotinamide-adenine dinucleotide	NDP	NAD	O4D	O4B;N1A
+Nicotinamide-adenine dinucleotide	NJP	NAD	O4D	O4B;N1A
+Nicotinamide-adenine dinucleotide	NZQ	NAD	O4D	O4B;N1A
+Molybdopterin	PCD	Molybdopterin	N5';N8'	O4D
+Co-A	0FQ	Co-A	S1P	O4D;N1A
+Co-A	4CA	Co-A	S1P	O4D;N1A
+Co-A	4CO	Co-A	S1P	O4D;N1A
+Co-A	BCA	Co-A	S1P	O4D;N1A
+Co-A	BYC	Co-A	S1P	O4D;N1A
+Co-A	FAQ	Co-A	S1P	O4D;N1A
+Co-A	HFQ	Co-A	S1P	O4D;N1A
+Co-A	COO	Co-A	S1	O4X;N1A
+Co-A	GRA	Co-A	S1	O4X;N1A
+Co-A	01K	Co-A	S20	O60;N57
+Co-A	LYX	Co-A	S20	O61;N58
+Nicotinamide-adenine dinucleotide	XNP	NAD	O4'	OWA;NBJ
+Co-A	COD	Co-A	O17	S44;N1
+Ascorbic acid	ASC	Ascorbic acid	all	na
+Ascorbic acid	ISD	Ascorbic acid	all	na
+Biopterin	4AB	Biopterin	N1;N3;N5;N8	na
+Biopterin	7AP	Biopterin	N1;N3;N5;N8	na
+Biopterin	BHS	Biopterin	N1;N3;N5;N8	na
+Biopterin	BIO	Biopterin	N1;N3;N5;N8	na
+Biopterin	H2B	Biopterin	N1;N3;N5;N8	na
+Biopterin	H4B	Biopterin	N1;N3;N5;N8	na
+Biopterin	HBI	Biopterin	N1;N3;N5;N8	na
+Biotin	41M	Biotin	N1;N3;S7	na
+Biotin	B1R	Biotin	N1;N2;S1	na
+Biotin	B4F	Biotin	N1;N2;S1	na
+Biotin	B9P	Biotin	N1;N2;S1	na
+Biotin	BC4	Biotin	NAI;NAJ;SAK	na
+Biotin	BH7	Biotin	N1;N4;S7	na
+Biotin	BNI	Biotin	N1;N2;S1	na
+Biotin	BSO	Biotin	N1;N2;S1	na
+Biotin	BTN	Biotin	N1;N2;S1	na
+Biotin	BTQ	Biotin	N1;N2;S1	na
+Biotin	BTX	Biotin	N1B;N2B;S1B	na
+Biotin	BYY	Biotin	N1;N2;S1	na
+Biotin	GBO	Biotin	N3;N2;S1	na
+Biotin	IMI	Biotin	N1;N2;S1	na
+Biotin	SHM	Biotin	N5;N3;S7	na
+Biotin	SNR	Biotin	N2;N5;S7	na
+Co-B	TP7	Co-B	S7	na
+Co-M	COM	Co-M	S1	na
+Dipyrromethane	DPM	Dipyrromethane	NA;NB	na
+Flavin mononucleotide	FMN	Flavin	N5;N10	na
+Glutathione	GSH	Glutathione	SG2	na
+Menaquinone	MQ7	Quinone	O1;O4	na
+Menaquinone	MQ8	Quinone	O1;O4	na
+Menaquinone	MQ9	Quinone	O1;O4	na
+MIO-factor	MDO	MIO-factor	N2;N3	na
+Molybdopterin	MSS	Molybdopterin	N5;N8	na
+Molybdopterin	MTQ	Molybdopterin	N5;N8	na
+Molybdopterin	MTV	Molybdopterin	N5;N8	na
+Adenin from other cofactors	ADE	NAD		na
+Tryptophan tryptophylquinone	TRQ	Quinone	CE3;CZ2	na
+lysine tryptophylquinone	DPQ	Quinone	CD2;CE1	na
+Phosphopantetheine	H2V	Phosphopantetheine	S	na
+Phosphopantetheine	PN2	Phosphopantetheine	S1	na
+Phosphopantetheine	PNS	Phosphopantetheine	S44	na
+Pyridoxial 5'-phosphate	PLP	Pyridoxial 5'-phosphate	C6;C3	na
+Pyrroloquinoline Quinone	PQQ	Quinone	all	na
+Topaquinone	1TY	Quinone	CD2;CE1	na
+Topaquinone	2TY	Quinone	CD2;CE1	na
+Topaquinone	TTS	Quinone	CD2;CE1	na
+Ubiquinone	DCQ	Quinone	O5;O2	na
+Ubiquinone	U10	Quinone	O5;O2	na
+Ubiquinone	UQ1	Quinone	O1;O4	na
+Ubiquinone	UQ2	Quinone	O1;O4	na
+Ubiquinone	UQ7	Quinone	O1;O4	na
+Ubiquinone	UQ8	Quinone	O5;O2	na
+Ubiquinone	UQ9	Quinone	O5;O2	na
+Quinone	4YP	Quinone	OAH;OAG	na
+Quinone	BHQ	Quinone	O1;O2	na
+Quinone	BNT	Quinone	OAB;OAN	na
+Quinone	DCQ	Quinone	O5;O2	na
+Quinone	DMW	Quinone	O1;O4	na
+Quinone	DQN	Quinone	O1;O4	na
+Quinone	EMO	Quinone	O6;O19	na
+Quinone	FLV	Quinone	CNA;CAO	na
+Quinone	KIA	Quinone	O1;O2	na
+Quinone	NQ	Quinone	OAA;OAB	na
+Quinone	PL9	Quinone	O1;O2	na
+Quinone	PLQ	Quinone	O5;O2	na
+Quinone	PQ9	Quinone	O1;O4	na
+Quinone	PQN	Quinone	O1;O4	na
+Quinone	PQQ	Quinone	all	na
+Quinone	TPQ	Quinone	O5;O2	na
